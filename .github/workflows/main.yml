@@ -10,7 +10,7 @@ on:
 
 env:
   PythonVersion: 3.8
-  DockerImageName: kube2py
+  DockerImageName: todoapp
 
 jobs:
   python-ci:
